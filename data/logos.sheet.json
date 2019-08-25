@@ -1,0 +1,38 @@
+{
+  "Auburn": {
+    "logo": "auburn.png"
+  },
+  "North Dakota": {
+    "logo": "northdakota.png"
+  },
+  "Utah": {
+    "logo": "utah.png"
+  },
+  "Arizona State": {
+    "logo": "arizonastate.png"
+  },
+  "BYU": {
+    "logo": "byu.png"
+  },
+  "UCLA": {
+    "logo": "ucla.png"
+  },
+  "Oregon": {
+    "logo": "oregon.png"
+  },
+  "Colorado": {
+    "logo": "colorado.png"
+  },
+  "California": {
+    "logo": "cal.png"
+  },
+  "Stanford": {
+    "logo": "stanford.png"
+  },
+  "Oregon State": {
+    "logo": "oregonstate.png"
+  },
+  "Washington State": {
+    "logo": "wsu.png"
+  }
+}
