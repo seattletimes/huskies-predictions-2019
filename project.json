@@ -10,11 +10,11 @@
     }
   },
   "title": "Huskies pick 'em: How will UW do in 2019?",
-  "description": "Think you’ve got what it takes to guess UW's 2018 season correctly?",
-  "url": "https://projects.seattletimes.com/2018/sports/uw-huskies-pick-em/",
+  "description": "Make your predictions for the Washington Huskies' 2019 season.",
+  "url": "https://projects.seattletimes.com/2019/sports/uw-huskies-pick-em/",
   "image": "assets/uwsocial.jpg",
-  "sheets": [""],
+  "sheets": ["1Kj2Hw1E2r3kSg6ebtvxX9jU8ES_aKom31R1CdgstbQs"],
   "standout": false,
   "embedded": false,
-  "production": false
+  "production": true
 }
