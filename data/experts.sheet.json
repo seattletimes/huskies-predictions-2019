@@ -1,72 +1,44 @@
 {
-  "adam": {
-    "name": "Adam Jude",
-    "comment": "The Huskies, Pac-12 champions in 2016, are the overwhelming favorites to win the conference crown again — and it's easy to see why. QB Jake Browning, RB Myles Gaskin, LT Trey Adams and RT Kaleb McGary are all four-year starters, and nine starters returning from the Pac-12's top-ranked defense, including all five defensive backs. The Huskies look like a legitimate national-title contender. For themselves, and for the Pac-12 at large, they need to beat No. 9 Auburn in the opener to prove to the East Coast, to prove to everyone, that that is indeed the case.",
-    "wins": 11,
-    "loss": 1,
+  "mike": {
+    "name": "Mike Vorel",
+    "comment": "A lot has to happen for Washington to win 10 games. Jacob Eason needs to play well and stay healthy. The same goes for the veteran Husky offensive line. The team’s young defensive talent needs to prove that it can play – particularly the inside linebackers. UW needs to reestablish a pass rush after losing that last season. But this group is still high on potential, with a very forgiving schedule. I think Chris Petersen’s team will play its best football at the end of the season. It remains to be seen whether that results in another Pac-12 title game appearance and New Year’s bowl game.",
+    "wins": 10,
+    "loss": 2,
     "title": "Huskies beat writer"
   },
   "percy": {
     "name": "Percy Allen",
-    "comment": "Kudos to Chris Petersen for agreeing to play No. 9 Auburn at a “neutral” site in Atlanta, but the last two times the Huskies faced top-10 ranked SEC teams they lost 24-7 to No. 1 Alabama in 2016 and were defeated 41-3 at No. 3 LSU in 2012. A trip to Utah and back-to-back road games at UCLA and Oregon are potentially troublesome, but if the Huskies clear those hurdles they could go undefeated in Pac-12 play. UW is fortunate it doesn't play Pac-12 defending champion USC and Arizona in the regular season.",
-    "wins": 11,
-    "loss": 1,
+    "comment": "I'm predicting a rocky 3-3 start for a UW team breaking in new quarterback Jacob Eason and revamping the Pac-12's top defense that lost nine starters. But this team should gel as the season progresses. Washington has a bye between the Oregon and Utah games, which concludes a perilous five-game stretch that will likely decided the Pac-12 North champion. Washington is 14-1 against OSU and Colorado since the start of the Pac-12 in 2011 and neither team should challenge the Huskies. And at this point, there's no good reason to believe UW's six-year winning streak versus WSU will end this year at Husky Stadium.",
+    "wins": 9,
+    "loss": 3,
     "title": "Huskies beat writer"
-  },
-  "bob": {
-    "name": "Bob Condotta",
-    "comment": "The opener may be too tall of an order for a Washington team that will essentially be playing on the road. But from there the schedule seems to offer only one really tricky stretch: the back-to-back games at UCLA and Oregon. The Huskies, though, look like the class of the Pac-12 for now and maybe well into the future.",
-    "wins": 11,
-    "loss": 1,
-    "title": "Seahawks beat writer"
-  },
-  "mike": {
-    "name": "Mike Vorel",
-    "comment": "This will come as little surprise to UW fans, but the Huskies should be the class of the Pac-12 in 2018. Chris Petersen brings back perhaps the most-talented defensive secondary in the country, as well as experienced, reliable offensive skill players in quarterback Jake Browning and tailback Myles Gaskin. Left tackle Trey Adams is a potential 2019 first-round draft pick as well. The Huskies will have to exorcise some demons in Atlanta in their opener against highly touted Auburn, but should cruise throughout the remainder of the regular season.",
-    "wins": 11,
-    "loss": 1,
-    "title": "Seahawks beat writer"
   },
   "larry": {
     "name": "Larry Stone",
-    "comment": "The Huskies are loaded for bear, including the Cal Bears. With returning stars all over the field, they are legitimate playoff contenders, and the opener against Auburn in Atlanta will provide an instant test of mammoth proportions. I see a close-fought battle in which the de facto home-field advantage of the Tigers (who are just a two-hour drive away) will make the difference. But Chris Petersen will have his Huskies bouncing back to run the table, and give the selection committee a very tough choice.",
-    "wins": 11,
-    "loss": 1,
-    "title": "Columnist"
-  },
-  "matt": {
-    "name": "Matt Calkins",
-    "comment": "The Huskies' hype is well-earned, and will carry over into the opener in Atlanta, where Washington will beat Auburn despite the game taking place 100 miles from the Tigers' campus. But the Huskies' rival in Eugene is on the rise and has the potential to steal a win at Autzen Stadium. Whether this is enough to bounce UW from the playoffs will depend on the rest of the country. ",
-    "wins": 11,
-    "loss": 1,
-    "title": "Columnist"
+    "comment": "The Huskies are fully capable of another run at a Pac-12 title and even a national playoff berth, but there is more of an air of uncertainty this year than in recent seasons. That’s what happens when you lose so many key players, including four-year starters Jake Browning and Myles Gaskin on offense, and a slew of defensive stalwarts. Chris Petersen’s program, however, is in “re-load” rather than “rebuild” mode; just how far they go is dependent on how the new cogs, particularly quarterback Jacob Eason, perform.",
+    "wins": 9,
+    "loss": 3,
+    "title": "Times sports columnist"
   },
   "paul": {
     "name": "Paul Barrett",
-    "comment": "UW appears to have it all – talent, coaching and a nonconference schedule that is difficult enough to garner buy-in from the College Football Playoff committee. The Huskies should edge Auburn in a huge season opener, but winning at Utah, at Oregon and against Stanford will be a challenge. I’ll pick the Oregon game as the lone loss, and I’ll project UW to reach the playoff for the second time in the past three years.",
-    "wins": 11,
-    "loss": 1,
+    "comment": "The Jacob Eason era will start 5-0, but navigating a four-game stretch vs. Stanford, Arizona, Oregon and Utah is a big ask. QB K.J. Costello and the Stanford offense should win the matchup vs. the UW defense, and Utah running back Zack Moss and a strong Utes defense will more than offset UW’s home-field advantage. Utah also will avenge its loss in last season’s Pac-12 title game, winning this year’s matchup and preventing the Huskies from reaching another New Year’s Six bowl.",
+    "wins": 10,
+    "loss": 2,
     "title": "Sports Editor"
   },
   "alex": {
     "name": "Alex Iniguez",
-    "comment": "Offensive stars Jake Browning and Myles Gaskin get all the attention, with good reason, but the UW defense will determine where this team goes. A stellar secondary — should it stay healthy — will lead the Huskies to a perfect conference record and a Pac-12 title. After that, it’s up to the College Football Playoff selection committee and other top teams to allow Chris Petersen to take the final step: winning a national championship.",
-    "wins": 11,
-    "loss": 1,
+    "comment": "The Jake Browning and Myles Gaskin era at UW is over, but a fresh take can be a good thing. Quarterback Jacob Eason should have a stronger mindset as the clear-cut guy after an open competition. It’ll be fun to watch speedy running back Salvon Ahmed, who was exciting in small doses last year, get a larger chunk of carries this season. Mix those with a veteran offensive line and a favorable schedule and, barring injuries, the Huskies very well could get to 10 wins.",
+    "wins": 10,
+    "loss": 2,
     "title": "Assistant Sports Editor"
   },
-  "stef": {
-    "name": "Stefanie Loh",
-    "comment": "With Jake Browning back for a final hurrah and what will be one of the nation’s best defensive secondaries to back him up, this is the year it all comes together for the Huskies. They’ll capture the nation’s attention with a statement win over Auburn on the road, then roll through the Pac-12 slate … until they get to Stanford, where Bryce Love just might power his way through that defense again to give the Cardinal its second-straight win over UW. Still, that Auburn win will keep them in the playoff conversation.",
-    "wins": 11,
-    "loss": 1,
+  "sean": {
+    "name": "Sean Quinton",
+    "comment": "How well can the Huskies play at home this season? That might be the question that defines success in 2019. If Husky Stadium provides the home cooking Washington needs to take down USC, Oregon, Utah and Washington State, the Huskies will roll to another Pac-12 title game and a legitimate shot at a College Football Playoff berth. But, with 13 starters gone from last season, a new QB and an unproven group of wide receivers, it's hard to see UW fully living up to lofty expectations.",
+    "wins": 9,
+    "loss": 3,
     "title": "Assistant Sports Editor"
-  },
-  "evan": {
-    "name": "Evan Webeck",
-    "comment": "Yeah, it's No. 9 Auburn. Yeah, it's in the heart of SEC country. But, no, I'm not going to be the guy to count out Chris Petersen with an entire slate of fall practices to prepare. His best team yet will garner all the deserved hype and reclaim the conference crown. Still, it's hard not to imagine a single slip-up along the way. What really matters: Will the Huskies do enough to convince the playoff committee to include a one-loss Pac-12 champion?",
-    "wins": 11,
-    "loss": 1,
-    "title": "Digital Sports Producer"
   }
 }

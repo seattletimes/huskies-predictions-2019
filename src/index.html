@@ -1,15 +1,14 @@
 <!doctype html>
 <html lang="en-US">
   <head>
+    <meta property="og:image" content="https://projects.seattletimes.com/2019/sports/uw-huskies-pick-em/assets/uwsocial.jpg" />
     <%= t.include("partials/_head.html", grunt.data.json) %>
     <link rel="stylesheet" type="text/css" href="style.css">
     <link href='https://fonts.googleapis.com/css?family=Paytone+One|Oswald:700,400,300' rel='stylesheet' type='text/css'>
   </head>
   <body>
     <%= t.include("partials/_nav.html") %>
-
-    <%= t.include("partials/_ad.html", { type: "banner" }) %>
-
+    <%= t.include("partials/_gtm.html") %>
     <main class="content">
       <div class="outer">
 

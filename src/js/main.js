@@ -1,4 +1,8 @@
 require("./lib/ads");
+var track = require("./lib/tracking");
+var paywall = require("./lib/paywall");
+setTimeout(() => paywall(11914998), 5000);
+
 require("./lib/social");
 var $ = require("./lib/qsa");
 var closest = require("./lib/closest");
